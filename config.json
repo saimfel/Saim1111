@@ -5,7 +5,7 @@
     "autoCreateDB": true,
     "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "autoClean": true,
     "commandDisabled": [
         "sim.js"
@@ -16,12 +16,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐬𝐚𝐢𝐦 𝐯𝐚𝐢",
+    "BOTNAME": "Saım 倫ッ",
     "PREFIX": "!",
     "ADMINBOT": [
         "61566961113103",
         "61566961113103",
-        "61564002689411"
+        "61566961113103"
     ],
     "NDH": [
         "61566961113103"
@@ -222,21 +222,4 @@
         "cooldownTime": 1000000
     },
     "sing2": {
-        "YOUTUBE_API": "AIzaSyBPdGN3eMhswfSKWoaomzdlEftf3NjV1gM",
-        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
-    },
-    "god": {
-        "enable": true
-    },
-    "antigali": {
-        "autoUnsend": true,
-        "delayUnsend": 20
-    },
-    "song": {
-        "autoUnsend": true,
-        "delayUnsend": 300
-    },
-    "vip": {
-        "cooldownTime": 1200000
-    }
-}
+        "YOUTUBE
