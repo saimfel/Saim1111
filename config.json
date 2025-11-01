@@ -16,7 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Saım 倫ッ",
+    "BOTNAME": "Saim мΛяเα 倫ッ",
     "PREFIX": "!",
     "ADMINBOT": [
         "61566961113103",
@@ -222,4 +222,21 @@
         "cooldownTime": 1000000
     },
     "sing2": {
-        "YOUTUBE
+        "YOUTUBE_API": "AIzaSyBPdGN3eMhswfSKWoaomzdlEftf3NjV1gM",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "god": {
+        "enable": true
+    },
+    "antigali": {
+        "autoUnsend": true,
+        "delayUnsend": 20
+    },
+    "song": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "vip": {
+        "cooldownTime": 1200000
+    }
+}
